@@ -18,7 +18,7 @@ const Product = () => {
           <p>
             Discover your creative side with the EOS 60D. Express yourself by
             producing stunning stills or Full HD Movies using the vari-angle LCD
-            screen and the advanced creative features.
+            screen and the advanced creative features...
           </p>
           <div className='strong'>
             <p>Product average rating: {average}% </p>
