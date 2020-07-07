@@ -1,6 +1,6 @@
 import React from 'react';
 import image from '../assets/canon-d60-dslr-2.jpg';
-import StarRating from './StartRating';
+import Rating from './Rating';
 
 import { averageState } from '../store/recoils';
 import { useRecoilValue } from 'recoil';
@@ -25,7 +25,7 @@ const Product = () => {
           </div>
         </div>
 
-        <StarRating />
+        <Rating />
       </div>
     </div>
   );
